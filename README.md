@@ -1,1 +1,1 @@
-# Pacman-Game-in-C
+# Pacman-Game-in-C++
